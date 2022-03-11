@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+}
+.post-header{
+    display: flex;
+
+}
+.letras{
+    line-height: 0.2px;
+    margin-right: 65%;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.post-header{
+    display: flex;
+}
+i{
+    font-size: 30px;
+    margin: auto;
+}
+.principal{
+    width: 100%;
+    height: 300px;
+}
+.post-body{
+    padding: 10px;
+}
+
+.buttons{
+    display: flex;
+    margin-top: 10px;
+    margin: auto;
+}
+.saved{
+    margin-left: 250px;
+}
